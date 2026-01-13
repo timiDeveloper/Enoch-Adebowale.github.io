@@ -9,9 +9,9 @@
       --bg-color: #000;
       --header-bg: #00ff88;
       --card-bg: #050505;
-      --primary-color: #00ff88;
-      --text-color: #e5e7eb;
-      --text-muted: #b6ffd9;
+      --primary-color: #00aa55; /* deep green for text */
+      --text-color: #00aa55;    /* deep green for headings/text */
+      --text-muted: #007744;    /* slightly darker green for muted text */
     }
 
     * {
@@ -30,35 +30,39 @@
     a {
       color: var(--primary-color);
       text-decoration: none;
-      transition: 0.3s;
-    }
-
-    a:hover {
-      color: #00cc6a;
     }
 
     /* HEADER */
     header {
       background: var(--header-bg);
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
-      padding: 80px 20px;
-    }
-
-    .header-container {
-      max-width: 1200px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      padding: 60px 20px;
+      text-align: center;
     }
 
     .profile-img {
       filter: grayscale(100%);
-      border-radius: 0; /* keep original shape */
-      max-width: 100%;
+      max-width: 200px;
       height: auto;
-      display: block;
+      border-radius: 0;
+      margin-bottom: 20px;
+    }
+
+    .intro {
+      max-width: 700px;
+      color: var(--primary-color);
+      margin-bottom: 20px;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .about-me {
+      max-width: 700px;
+      color: var(--primary-color);
+      font-size: 14px;
     }
 
     /* PROJECTS */
@@ -86,7 +90,6 @@
       border: 1px solid var(--primary-color);
       border-radius: 12px;
       padding: 20px;
-      transition: transform 0.4s ease, box-shadow 0.4s ease;
     }
 
     .project-card h3 {
@@ -99,11 +102,6 @@
       font-size: 14px;
     }
 
-    .project-card:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 0 15px var(--primary-color), 0 0 30px var(--primary-color);
-    }
-
     .project-card a {
       display: inline-block;
       margin-top: 12px;
@@ -112,13 +110,23 @@
       color: #000;
       font-weight: bold;
       border-radius: 6px;
-      transition: 0.3s;
+      text-decoration: none;
     }
 
-    .project-card a:hover {
-      background: #00cc6a;
-      box-shadow: 0 0 12px var(--primary-color), 0 0 25px var(--primary-color);
-      transform: translateY(-2px);
+    /* CONTACT SECTION */
+    .contact {
+      max-width: 800px;
+      margin: 60px auto;
+      text-align: center;
+    }
+
+    .contact h2 {
+      margin-bottom: 20px;
+    }
+
+    .contact p {
+      margin-bottom: 10px;
+      color: var(--primary-color);
     }
 
     footer {
@@ -132,17 +140,23 @@
 
     @media(max-width: 768px){
       h2 { font-size: 1.8rem; }
+      .profile-img { max-width: 150px; }
     }
-
   </style>
 </head>
 <body>
 
   <!-- HEADER -->
   <header>
-    <div class="header-container">
-      <img src="profile.jpg" alt="Samuel Enoch" class="profile-img">
-    </div>
+    <img src="profile.jpg" alt="Samuel Enoch" class="profile-img">
+    <h1>Samuel Enoch</h1>
+    <p class="intro">
+      Welcome to my data analysis portfolio. I transform raw data into actionable insights using Excel, SQL, and Power BI, delivering clear, business-focused analytics and visual storytelling.
+    </p>
+    <p class="about-me">
+      I am a data analyst with experience in data cleaning, exploratory analysis, business reporting, and building interactive dashboards.
+      My work covers customer behavior, supply chain analytics, sustainability, and air traffic data. I transform raw data into actionable insights using Excel, SQL, and Power BI.
+    </p>
   </header>
 
   <!-- PROJECTS SECTION -->
@@ -195,7 +209,14 @@
     </div>
   </section>
 
-  <!-- FOOTER -->
+  <!-- CONTACT SECTION -->
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p><strong>Email:</strong> samuelenochade@gmail.com</p>
+    <p><strong>Phone:</strong> +2348154619137</p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samuel-enoch-3a47141b6" target="_blank">linkedin.com/in/samuel-enoch-3a47141b6</a></p>
+  </section>
+
   <footer>
     © 2026 Samuel Enoch | Data Analyst Portfolio
   </footer>
