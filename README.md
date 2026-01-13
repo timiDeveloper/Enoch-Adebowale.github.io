@@ -8,7 +8,7 @@ I focus on practical, real-world analysis and clear data storytelling through da
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 I am a data analyst with experience in:
 - Data cleaning and preparation  
@@ -16,11 +16,11 @@ I am a data analyst with experience in:
 - Business reporting and data visualization  
 - Building interactive dashboards  
 
-My work covers topics such as **customer behavior, supply chain analytics, sustainability, and aviation data**, demonstrating how data can be used to uncover trends and improve performance.
+My work covers topics such as **customer behavior, supply chain analytics, sustainability, and Air Traffic data**, demonstrating how data can be used to uncover trends and improve performance.
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 - **Excel:** Data cleaning, formulas, pivot tables, dashboards, **data visualization**  
 - **SQL:** Data extraction, filtering, joins, aggregations  
@@ -29,7 +29,7 @@ My work covers topics such as **customer behavior, supply chain analytics, susta
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
 ### 🔹 Supply Chain Analytics & Sustainability (Power BI)
 Analyzed supply chain emissions to identify environmental impact and key sustainability trends.
@@ -61,22 +61,7 @@ Transforming the data into a dashboard made these patterns clearer and easier to
 
 ---
 
-### 🔹 Age Group Segmentation (Excel)
-Automated age classification for customer demographic analysis.
-- Used formulas and nested IF functions  
-- Created dynamic age group categories for reporting  
-
----
-
-### 🔹 Business Data Cleaning & Reporting (Excel / SQL)
-Prepared and analyzed business datasets for reporting and insight generation. 
-- Removed duplicates and handled missing values  
-- Wrote SQL queries for structured reporting  
-- Standardized data formats for consistency  
-
----
-
-## 📌 Other Projects
+##  Other Projects
 
 ### 🔹 DIGITAL MARKETING DASHBOARD
 **LinkedIn Post:**  
@@ -97,7 +82,7 @@ Prepared and analyzed business datasets for reporting and insight generation.
 
 ---
 
-## 📈 What This Portfolio Demonstrates
+##  What This Portfolio Demonstrates
 
 - Strong data cleaning and preparation skills  
 - Ability to analyze real-world datasets  
@@ -106,15 +91,15 @@ Prepared and analyzed business datasets for reporting and insight generation.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 Email: samuelenochade@gmail.com  
-💬 WhatsApp/phone: +2348154619137  
+💬 Phone: +2348154619137  
 🔗 LinkedIn: https://www.linkedin.com/in/samuel-enoch-3a47141b6  
 
 ---
 
-## ⭐ Let’s Work Together
+##  Let’s Work Together
 
 I am open to:
 - Data analyst roles  
