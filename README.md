@@ -77,9 +77,21 @@ Transforming the data into a dashboard made these patterns clearer and easier to
 ### 🔹 GLOBAL TRENDS IN MENTAL HEALTH DISORDER DASHBOARD
 **LinkedIn Post:**  
 🔗 Your LinkedIn project link here🔗 https://www.linkedin.com/posts/samuel-enoch-3a47141b6_powerbidashboard-mentalhealthdata-globaltrends-activity-7402844691131490304-94Wf
+---
 
+### 🔹 GLOBAL DEBT DASHBOARD
+**LinkedIn Post:** 
+🔗 https://www.linkedin.com/posts/samuel-enoch-3a47141b6_dataanalysis-datavisualization-globaldebt-activity-7414034153781817344-WEGy
+---
 
+### 🔹 RETAIL INSIGHTS & CUSTOMER ANALYTICS DASHBOARD
+**LinkedIn Post:** 
+🔗 https://www.linkedin.com/posts/samuel-enoch-3a47141b6_powerbidashboard-retaillnsights-customeranalytics-activity-7402845349155172353-xmXQ
+---
 
+### 🔹 INSURANCE ANALYTICS & BUSINESS INSIGHTS DASHBOARD
+**LinkedIn Post:** 
+🔗 https://www.linkedin.com/posts/samuel-enoch-3a47141b6_powerbidashboard-insuranceanalytics-businessinsights-activity-7402827335726526464-gz-9
 ---
 
 ##  What This Portfolio Demonstrates
